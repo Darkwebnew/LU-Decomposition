@@ -29,6 +29,9 @@ print(L)
 print(U)
 ```
 
+## Output:
+![Screenshot 2023-10-05 202232](https://github.com/Darkwebnew/LU-Decomposition/assets/143114486/45d52fa3-1b8d-431e-b16f-c1bf2fef51e7)
+
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
